@@ -1,0 +1,16 @@
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje2_TODO\bin\Debug\net5.0\proje2_TODO.exe
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje2_TODO\bin\Debug\net5.0\proje2_TODO.deps.json
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje2_TODO\bin\Debug\net5.0\proje2_TODO.runtimeconfig.json
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje2_TODO\bin\Debug\net5.0\proje2_TODO.runtimeconfig.dev.json
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje2_TODO\bin\Debug\net5.0\proje2_TODO.dll
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje2_TODO\bin\Debug\net5.0\ref\proje2_TODO.dll
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje2_TODO\bin\Debug\net5.0\proje2_TODO.pdb
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje2_TODO\obj\Debug\net5.0\proje2_TODO.csproj.AssemblyReference.cache
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje2_TODO\obj\Debug\net5.0\proje2_TODO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje2_TODO\obj\Debug\net5.0\proje2_TODO.AssemblyInfoInputs.cache
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje2_TODO\obj\Debug\net5.0\proje2_TODO.AssemblyInfo.cs
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje2_TODO\obj\Debug\net5.0\proje2_TODO.csproj.CoreCompileInputs.cache
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje2_TODO\obj\Debug\net5.0\proje2_TODO.dll
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje2_TODO\obj\Debug\net5.0\ref\proje2_TODO.dll
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje2_TODO\obj\Debug\net5.0\proje2_TODO.pdb
+C:\Users\volkan\OneDrive\Belgeler\NET5odevleri\proje2_TODO\obj\Debug\net5.0\proje2_TODO.genruntimeconfig.cache

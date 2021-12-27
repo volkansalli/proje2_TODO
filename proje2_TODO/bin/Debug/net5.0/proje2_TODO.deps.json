@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "proje2_TODO/1.0.0": {
+        "runtime": {
+          "proje2_TODO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "proje2_TODO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6FXNhUeSP+v3fTV7ZdE9hwLE5ropTq78t0MTB8mEFDAz7oZcsv610U8kyZXJtIS4nzULw683rmTTRuQJkLDKdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\volkan\\OneDrive\\Belgeler\\NET5odevleri\\proje2_TODO\\proje2_TODO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\volkan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
